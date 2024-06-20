@@ -1,5 +1,3 @@
-
-
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
@@ -40,7 +38,7 @@ class _TodoListItemState extends State<TodoListItem> {
         ),
       ]),
       child: InkWell(
-        onTap: () => deleteTodo(context),
+        onTap: () => navigateToDetailsScreen(context),
         child: Container(
           padding: const EdgeInsets.all(8),
           decoration: const BoxDecoration(
