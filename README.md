@@ -4,7 +4,10 @@ This is a simple ToDo application built using Flutter. The app supports adding, 
 
 
 ## Screenshots
-
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img alt="Home Screen" src="https://github.com/muhammadmidlaj/TODO_APP/blob/main/screenshots/add_todo_screen.jpg"/></a>
+ 
+</p>
 ![home_screen](https://github.com/muhammadmidlaj/TODO_APP/assets/123820788/08fd71f8-ae39-463e-b015-1c08167de613)
 ![add_todo_screen](https://github.com/muhammadmidlaj/TODO_APP/assets/123820788/e63bccbe-03b7-4dbf-82af-37da254123cd)
 ![details_screen](https://github.com/muhammadmidlaj/TODO_APP/assets/123820788/93f2164c-6a54-4f3b-864f-ec1b98014073)
