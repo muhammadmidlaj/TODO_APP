@@ -5,9 +5,28 @@ This is a simple ToDo application built using Flutter. The app supports adding, 
 
 ## Screenshots
 
+<img src="screenshots/home_screen.jpg"
 
-![Home Screen](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+alt="Home Screen"
 
-![Add Todo Screen](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+style="float: left; margin-right: 10px;"
 
-![Todo Details Screen](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+width="200"/> <img src="images/Capture2.PNG"
+
+alt="Home Screen"
+
+style="float: left; margin-right: 10px;"
+
+width="200"/> <img src="https://media.giphy.com/media/g4M22W129fexgv34g7/200w_d.gif"
+
+alt="Home Screen"
+
+style="float: left; margin-right: 10px;"
+
+width="186"/> <img src="https://media.giphy.com/media/pzdFUO8zPdUhVMpwex/200w_d.gif"
+
+alt="Home Screen"
+
+style="float: left; margin-right: 10px;"
+
+width="189"/>
